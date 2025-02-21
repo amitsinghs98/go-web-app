@@ -5,6 +5,7 @@ metadata:
   name: go-web-app
   labels:
     app: go-web-app
+    app: web
 spec:
   replicas: 1
   selector:
